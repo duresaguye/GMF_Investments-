@@ -1,6 +1,3 @@
-Sure! A good README should include key details about your project, such as its purpose, features, setup instructions, and usage. Here's a well-structured README for your **GMF Investments** project:
-
----
 
 # 📈 GMF Investments  
 
