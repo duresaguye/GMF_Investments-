@@ -29,17 +29,9 @@ GMF Investments is a platform designed to help users manage and track their inve
    ```
 3. Install dependencies:  
    ```sh
-   npm install  # or pip install -r requirements.txt (if Python-based)
-   ```
-4. Start the development server:  
-   ```sh
-   npm start  # or python app.py (depending on your tech stack)
-   ```
+  pip install -r requirements.txt 
 
-## 📚 Usage  
-- **Register/Login** to access your investment dashboard.  
-- **Add your investments** and track performance.  
-- **View insights** and make data-driven decisions.  
+
 
 ## 🤝 Contributing  
 Contributions are welcome! To contribute:  
